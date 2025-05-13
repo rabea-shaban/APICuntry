@@ -5,13 +5,8 @@ Displays detailed information about each country including its flag, region, cap
 
 ## 🚀 Live Demo
 
-👉 [Live on Vercel](https://your-vercel-link.vercel.app)  
-*(Replace with actual deployed link if available)*
+👉 [Live on Vercel]([https://your-vercel-link.vercel.app](https://api-cuntry.vercel.app/))  
 
-## 📸 Screenshot
-
-![screenshot](./screenshot.png)  
-*(Add a screenshot of the app interface here if available)*
 
 ## 🛠️ Tech Stack
 
